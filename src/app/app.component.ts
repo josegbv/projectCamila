@@ -13,11 +13,11 @@ export class AppComponent {
   estadoSeleccionado:any = 'Selecciona un estado de animo';
 
   colores:any = {
+    'Selecciona un estado de animo': 'white'
     'Molesto': "red",
     'Alegre': 'yellow',
     'Cansado':  "gray ",
     'Triste' : 'blue',
-    'Selecciona un estado de animo': 'white'
   }
 
   cambiarColor(){
