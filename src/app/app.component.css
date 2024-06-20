@@ -1,0 +1,14 @@
+.container { 
+    color: #414242;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    
+  }
+
+:host, select{
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+  }
